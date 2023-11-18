@@ -1,5 +1,7 @@
 import { Icons } from "~/components/icons";
 import { Counter } from "~/components/nav";
+// import { Counter } from "~/components/counter";
+
 import { SiteFooter } from "~/components/site-footer";
 import { Button } from "~/components/ui/button";
 
